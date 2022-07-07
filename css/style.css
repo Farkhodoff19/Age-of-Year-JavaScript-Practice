@@ -1,0 +1,9 @@
+.container {
+    border: 1px solid black;
+}
+
+.flex-box-container {
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+}
